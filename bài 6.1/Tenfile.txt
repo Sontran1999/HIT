@@ -1,0 +1,44 @@
+tu so: 2
+mau so: 3
++tu so: 3
+mau so: 2
+=tu so: 13
+mau so: 6
+=2.16667
+tu so: 2
+mau so: 3
+-tu so: 3
+mau so: 2
+=tu so: -5
+mau so: 6
+=-0.833333
+tu so: 2
+mau so: 3
+*tu so: 3
+mau so: 2
+=tu so: 6
+mau so: 6
+=2.16667
+tu so: 2
+mau so: 3
+/tu so: 3
+mau so: 2
+=tu so: 4
+mau so: 9
+=0.444444
+2/3
++3/2
+=13/6
+=2.16667
+2/3
+-3/2
+=-5/6
+=-0.833333
+2/3
+*3/2
+=6/6
+=2.16667
+2/3
+/3/2
+=4/9
+=0.444444
